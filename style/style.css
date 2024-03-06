@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, rgb(16, 9, 52), rgb(52, 4, 4));
+    background-image:url(/assets/galaxy.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.card img{
+    border-radius: 5px;
+    width: 40%;
+    height: 70%;
+}
+
+p{
+    color: aliceblue;
+    padding: 1%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+h1{
+    padding: 2%;
+    color:aliceblue;
+    justify-content: center;
+}
+
+.card{
+    padding: 40px;
+    justify-content: center;
+    width: 55%;
+    height: auto;
+    border-radius: 50px;
+    border: 4px solid #6e4d1b;
+    background-color: rgba(16, 14, 47, 0.604);
+    box-shadow: 0 20px 40px #1524c4;
+}

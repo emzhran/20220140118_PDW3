@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     background: linear-gradient(to right, rgb(16, 9, 52), rgb(52, 4, 4));
-    background-image:url(/assets/galaxy.jpg);
+    background-image:url(https://th.bing.com/th?id=ODL.75fb216d71193857d0209e0e2c23e8c9&w=298&h=298&c=10&rs=1&qlt=99&o=6&dpr=1.3&pid=13.1);
     background-size: cover;
     background-position: center;
 }

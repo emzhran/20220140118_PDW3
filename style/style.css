@@ -1,3 +1,4 @@
+/* command dibawah digunakan untuk mengatur tata letak elemen-elemen html */
 *{
     margin: 0%;
     padding: 0%;
@@ -5,6 +6,7 @@
     text-align: center;
 }
 
+/* command dibawah digunakan untuk mengatur gaya/style elemen body dalam html */
 body{
     display: flex;
     height: 100vh;
@@ -16,25 +18,28 @@ body{
     background-position: center;
 }
 
+/* command dibawah digunakan untuk mengatur gambar yang ada didalam kelas card */
 .card img{
     border-radius: 5px;
     width: 40%;
     height: 70%;
 }
 
+/* command dibawah digunakan untuk mengatur gaya/style teks dari elemen <P> */
 p{
     color: aliceblue;
     padding: 1%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-
+/* command dibawah digunakan untuk mengatur gaya/style dari elemen <h1>  */
 h1{
     padding: 2%;
     color:aliceblue;
-    justify-content: center;
+    text-align: center;
 }
 
+/* command dibawah digunakan untuk mengatur gaya/style pada kelas card */
 .card{
     padding: 40px;
     justify-content: center;
